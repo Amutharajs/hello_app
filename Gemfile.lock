@@ -205,12 +205,11 @@ DEPENDENCIES
   rails (~> 6.1.4, >= 6.1.4.1)
   rp
   sass-rails (>= 6)
-  selenium-webdriver
   spring
   sqlite3 (= 1.4)
   turbolinks (~> 5)
   tzinfo-data
-  web-console (>= 4.1.0)
+  web-console (>= 4.1)
   webdrivers
 
 RUBY VERSION
